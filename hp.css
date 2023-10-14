@@ -1,0 +1,22 @@
+
+body{
+    background-color:black;
+
+}
+h1{
+    
+    color:white;
+ 
+}
+h2{
+    color: white;
+}
+
+#c{
+    border: 0.5px solid black;
+    width: 300px;
+    
+    padding: 20px;
+    
+    
+}
